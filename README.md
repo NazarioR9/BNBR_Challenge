@@ -1,7 +1,5 @@
 # Basic Needs Basic Rights Kenya - Tech4MentalHealth
 
-This ropository contains the 
-
 ## Brief Description
 
 The objective of this challenge is to develop a machine learning model that classifies statements and questions expressed by university students in Kenya when speaking about the mental health challenges they struggle with. The four categories are depression, suicide, alchoholism, and drug abuse.   
@@ -37,7 +35,7 @@ For more information about this challenge, have a look on [Zindi](https://zindi.
 |\
 |---- Readme.md   
 
-PS: This isn't the defenitive structure. During the execution of the code, new directories will be created.
+PS: This isn't the definitive structure. During the code execution, new directories will be created.
 
 ## How to run the code
 
@@ -54,15 +52,15 @@ PS: This isn't the defenitive structure. During the execution of the code, new d
 
 ### Expectations
 
-To make sure that evrything is working smoothly, here is what to expect from above (steps):
+To make sure that everything is working smoothly, here is what to expect from above (steps):
 
 ```
 # 1. 
 # 2. After this step, verify that 'data/{final_train, final_test}.csv' exist
 # 3. After this step, verify that 'data/{extended_train_from_fr_to_english, extended_test_from_fr_to_english}.csv' exist
-# 4. Here, a new directory 'mlm_finetuned_models/' will be appear (in the repo structure) and should contains '{mlm_bert_base_, mlm_roberta_base_}.zip'
+# 4. Here, a new directory 'mlm_finetuned_models/' will appear (in the repo structure) and should contains '{mlm_bert_base_, mlm_roberta_base_}.zip'
 # 5. Directory 'submissions/' will be added to the repo structure and '{bert-base-uncased__, roberta-base__, roberta-base_translated}.csv' will be written in it.
-# 5. Performs a simple weights blend. Then create 'submissions/final_submission.csv' which is the final submission file.
+# 5. Performs a simple weight-blend, then creates 'submissions/final_submission.csv' which is the final submission file.
 ```
 ## [On the Leaderboard] (https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth/leaderboard)
 
