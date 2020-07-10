@@ -62,7 +62,7 @@ To make sure that everything is working smoothly, here is what to expect from ab
 # 5. Directory 'submissions/' will be added to the repo structure and '{bert-base-uncased__, roberta-base__, roberta-base_translated}.csv' will be written in it.
 # 5. Performs a simple weight-blend, then creates 'submissions/final_submission.csv' which is the final submission file.
 ```
-## [On the Leaderboard] (https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth/leaderboard)
+## [On the Leaderboard](https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth/leaderboard)
 
 Look for the team named : **OptimusPrime**
 
