@@ -64,7 +64,7 @@ To make sure that everything is working smoothly, here is what to expect from ab
 ```
 ## [On the Leaderboard](https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth/leaderboard)
 
-Look for the team named : **OptimusPrime** 
+Look for the team named : **OptimusPrime** <br>
 Rank : 6/501
 
 ## Authors
